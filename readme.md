@@ -183,7 +183,7 @@
 - [Idea Keeper](https://miftikcz.github.io/idea-keeper-2) :brain: Highly extensible and minimalistic idea keeping app _([GitHub Project](https://github.com/MiftikCZ/idea-keeper-2))_.
 - [Trellith](https://trellith.sakih.net/) - Tiny Trello Clone PWA ([GitHub Project](https://github.com/sakihet/trellith)).
 - [Gladys Assistant](https://gladysassistant.com/) - A privacy-first, open-source home assistant _([GitHub Project](https://github.com/GladysAssistant/Gladys))_.
-- [Lanquiz](https://codeberg.org/nykula/lanquiz) - Host quizzes in LAN from a laptop. (Import from Kahoot. Self-host during blackouts.)
+- [Lanquiz](https://codeberg.org/nykula/lanquiz) - Host quizzes in LAN from a laptop (Import from Kahoot. Self-host during blackouts).
 
 ### Related Libraries
 - [React](https://github.com/facebook/react) - A declarative, efficient, and flexible JavaScript library for building user interfaces.
